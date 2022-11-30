@@ -1,0 +1,19 @@
+table{
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    background-color: aqua;
+}
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    background-color: aquamarine;
+  }
+  .ung{
+    font-style: italic;
+  }
+body{
+    background-color: black;
+}
+
